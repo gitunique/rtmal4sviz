@@ -10,7 +10,7 @@ Overview
 
 1. rt-processing.awk: an AWK script that will take the current rt feed and generate a
    well formatted mal4s file
-2. rt-lastest.conf: a sample configureation file for mal4s
+2. rt-lastest.conf: a sample configuration file for mal4s
 3. rt-latest.mal4s: sample RT data in mal4s format
 4. A data directory containing some icons
 
