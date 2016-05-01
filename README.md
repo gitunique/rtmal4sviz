@@ -35,6 +35,9 @@ After adding the contents of the data directory to mal4s (c:\mal4s on windows), 
 mal4s.exe -C rt-latest.conf -c 4 -f rt-latest.mal4s
 ```
 
+This will produce an animation of ransomware infrastructure over time like below:
+
+![rtmal4sviz](https://github.com/gitunique/rtmal4sviz/blob/master/data/mal4srt.png)
 Limitations
 -----------
 
